@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dthuytram
-- 👀 I’m interested in reading English books, short Japanese stories 
+- 👀 I’m interested in reading English books, short Japanese stories (took N3 certificate and learning learn N2 certificate)
 - 🌱 I’m currently learning Java Spring Boot (BE) and Angular, React (FE)
 - 📫 TING TING BOOM ...................................
 
